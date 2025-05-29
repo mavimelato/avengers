@@ -1,5 +1,6 @@
 
 # 🦸‍♂️ Análise Exploratória de Dados dos Vingadores: Padrões de Mortalidade e Ressurreição
+![Avengers](images/avengers.png)
 
 ## 📌 Sobre o Projeto
 
